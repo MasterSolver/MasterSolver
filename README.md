@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashwat</h1>
-<h3 align="center">Full-Stack Web Developer in Progress</h3>
+<h3 align="center">AI/ML and Full-Stack Web Developer in Progress</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 BCA student learning full-stack web development  
-- 🧠 Focused on how frontend and backend work together  
+- 🧠 Focused on how AI and LLM work together  
 - 🛠️ Learning by building real projects  
 - 🚀 Goal: become a production-ready full-stack developer  
 
@@ -41,9 +41,9 @@
 ---
 
 ### 📌 Currently Learning
-- REST APIs & backend architecture  
-- Authentication & authorization  
-- Database design  
+- RAG (Retrival Argumented Genration) 
+- MCP (Model Context Protocol)
+- Vector Database  
 - Deployment & performance basics  
 
 ---
